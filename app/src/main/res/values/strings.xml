@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Scanner for GSheets</string>
+    <string name="scanner_btn">Escanear</string>
+    <string name="scanned_info">Escaneado</string>
+    <string name="history">Historial</string>
+    <string name="instructions">Enfoca el código QR</string>
+    <string name="switch_txt">Modo</string>
+    <string name="input_txt">Entrada</string>
+    <string name="output_txt">Salida</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
